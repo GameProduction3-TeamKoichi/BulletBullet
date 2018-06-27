@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\BulletBullet.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{899CA04C-859F-462E-AA25-7579FA1D2552}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BulletBullet.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\BulletBulletEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{CE0DEF78-9F5E-4C6C-8726-3CC1B8F1F9A8}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\BulletBullet">
+			<UniqueIdentifier>{C21E76D0-796A-400F-A27D-6FE6BC9CF631}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BulletBullet\BulletBullet.Build.cs">
+			<Filter>Source\BulletBullet</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\BulletBullet\BulletBullet.cpp">
+			<Filter>Source\BulletBullet</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BulletBullet\BulletBullet.h">
+			<Filter>Source\BulletBullet</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BulletBullet\BulletBulletCharacter.cpp">
+			<Filter>Source\BulletBullet</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BulletBullet\BulletBulletCharacter.h">
+			<Filter>Source\BulletBullet</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BulletBullet\BulletBulletGameMode.cpp">
+			<Filter>Source\BulletBullet</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BulletBullet\BulletBulletGameMode.h">
+			<Filter>Source\BulletBullet</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BulletBullet\BulletBulletHUD.cpp">
+			<Filter>Source\BulletBullet</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BulletBullet\BulletBulletHUD.h">
+			<Filter>Source\BulletBullet</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BulletBullet\BulletBulletProjectile.cpp">
+			<Filter>Source\BulletBullet</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BulletBullet\BulletBulletProjectile.h">
+			<Filter>Source\BulletBullet</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

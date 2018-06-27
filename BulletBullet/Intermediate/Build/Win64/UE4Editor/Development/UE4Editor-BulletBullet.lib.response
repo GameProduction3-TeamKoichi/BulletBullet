@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BulletBullet.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Yuki\Documents\Unreal Projects\BulletBullet\Intermediate\Build\Win64\UE4Editor\Development\BulletBullet\BulletBullet.cpp.obj"
+"C:\Users\Yuki\Documents\Unreal Projects\BulletBullet\Intermediate\Build\Win64\UE4Editor\Development\BulletBullet\BulletBulletCharacter.cpp.obj"
+"C:\Users\Yuki\Documents\Unreal Projects\BulletBullet\Intermediate\Build\Win64\UE4Editor\Development\BulletBullet\BulletBulletGameMode.cpp.obj"
+"C:\Users\Yuki\Documents\Unreal Projects\BulletBullet\Intermediate\Build\Win64\UE4Editor\Development\BulletBullet\BulletBulletHUD.cpp.obj"
+"C:\Users\Yuki\Documents\Unreal Projects\BulletBullet\Intermediate\Build\Win64\UE4Editor\Development\BulletBullet\BulletBulletProjectile.cpp.obj"
+"C:\Users\Yuki\Documents\Unreal Projects\BulletBullet\Intermediate\Build\Win64\UE4Editor\Development\BulletBullet\BulletBullet.init.gen.cpp.obj"
+"C:\Users\Yuki\Documents\Unreal Projects\BulletBullet\Intermediate\Build\Win64\UE4Editor\Development\BulletBullet\BulletBulletCharacter.gen.cpp.obj"
+"C:\Users\Yuki\Documents\Unreal Projects\BulletBullet\Intermediate\Build\Win64\UE4Editor\Development\BulletBullet\BulletBulletGameMode.gen.cpp.obj"
+"C:\Users\Yuki\Documents\Unreal Projects\BulletBullet\Intermediate\Build\Win64\UE4Editor\Development\BulletBullet\BulletBulletHUD.gen.cpp.obj"
+"C:\Users\Yuki\Documents\Unreal Projects\BulletBullet\Intermediate\Build\Win64\UE4Editor\Development\BulletBullet\BulletBulletProjectile.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\BulletBullet\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Yuki\Documents\Unreal Projects\BulletBullet\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BulletBullet.lib"
